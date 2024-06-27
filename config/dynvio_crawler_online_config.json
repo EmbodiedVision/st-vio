@@ -1,0 +1,44 @@
+{
+  "value0": {
+    "dynvio_config.extr_init_weight": 1,
+    "dynvio_config.param_init_weight": 2e1,
+    "dynvio_config.cmd_history_size": 1,
+    "dynvio_config.T_o_i_init":
+    {
+      "px": 0.191,
+      "py": 0.027,
+      "pz": 0.18,
+      "qx": 0.5,
+      "qy": 0.5,
+      "qz": 0.5,
+      "qw": 0.5
+    },
+    "dynvio_config.I_z":  0.159,
+    "dynvio_config.l_front": 0.157,
+    "dynvio_config.c_lat_init": 47.933,
+    "dynvio_config.steering_rt_init": -0.416,
+    "dynvio_config.throttle_f1_init": 14.341,
+    "dynvio_config.throttle_f2_init": 9.772,
+    "dynvio_config.throttle_res_init": 2.326,
+    "dynvio_config.dynamics_weight": 1e3,
+    "dynvio_config.constraint_weight": 1e4,
+    "dynvio_config.param_prior_weight": 1e8,
+    "dynvio_config.extr_rd_weight": 1e4,
+    "dynvio_config.wheel_base": 0.31,
+    "dynvio_config.mass": 6.75,
+    "dynvio_config.l_fw_imu": 0.034,
+    "dynvio_config.l_c_imu": 0.027,
+    "dynvio_config.imu_forward":
+    {
+      "px": 0.0,
+      "py": 0.0,
+      "pz": 1e1,
+      "qx": 0.0,
+      "qy": 0.7071067811865475,
+      "qz": 0.0,
+      "qw": 0.7071067811865475
+    },
+    "dynvio_config.ba_var_thr" : 4.5e-4
+  }
+}
+
