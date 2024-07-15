@@ -15,7 +15,7 @@ If you use the source code provided in this repository for your research, please
   author      = {Haolong Li and Joerg Stueckler},
   title       = {Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry},
   booktitle   = {In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)},
-  year        = {2014},
+  year        = {2024},
   note        = {to appear, preprint at https://arxiv.org/abs/2309.11148},
   doi={}
 }
